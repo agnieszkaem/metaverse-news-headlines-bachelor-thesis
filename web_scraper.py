@@ -37,8 +37,7 @@ def read_articles(name, url_base,start_page,pages,increment,article,article_clas
                 
             except(AttributeError, KeyError) as e:
                     #Advertisement in article sector
-                #print(" extracting not article - advertisement:", e)
-                continue
+                pass
         page+=increment
         if page>pages*increment:
             break
