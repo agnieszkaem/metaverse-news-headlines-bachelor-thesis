@@ -1,1 +1,1 @@
-# metaverse-news-headlines-bachelor-thesis
+# Sentiment analysis on metaverse news headlines
