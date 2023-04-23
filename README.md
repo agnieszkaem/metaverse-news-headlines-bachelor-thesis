@@ -6,6 +6,6 @@ Data was collected by web scraping using the BeautifulSoup and requests library.
 1. Bloomberg
 2. CNBC
 3. Mail Online
-4 The Times
+4. The Times
 5. the Financial Times
 6. Forbes
