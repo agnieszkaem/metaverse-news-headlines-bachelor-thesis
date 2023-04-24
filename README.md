@@ -1,4 +1,4 @@
-# Sentiment analysis on metaverse news 
+# Sentiment analysis on metaverse online news.
 The project involves conducting sentiment analysis on the metaverse from online news sources.
 
 # Data sources
